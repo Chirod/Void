@@ -10,6 +10,10 @@ package pkgvoid;
  */
 public class SpaceStation extends Grid {
     
+    public SpaceStation() {
+        super(false);
+        
+    }
     
     
     
